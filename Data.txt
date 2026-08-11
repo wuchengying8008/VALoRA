@@ -1,0 +1,13 @@
+All datasets used in this paper are publicly available benchmarks. They are standard time-series forecasting datasets that have been widely adopted in previous studies (e.g., Autoformer, TimesNet, PatchTST). The raw data can be obtained from the official repositories listed below, and all preprocessing steps (normalization, split, etc.) are described in Appendix H of the paper.
+1.ETTh
+https://raw.githubusercontent.com/thuml/Autoformer/main/data/ETTh1.csv
+2.Exchange
+https://raw.githubusercontent.com/thuml/Autoformer/main/data/exchange_rate.csv
+3. Illness
+https://raw.githubusercontent.com/thuml/Autoformer/main/data/illness.csv
+4.Weather
+https://raw.githubusercontent.com/thuml/Autoformer/main/data/weather.csv
+5.Traffic
+https://raw.githubusercontent.com/thuml/Autoformer/main/data/traffic.csv
+6.Solar
+https://github.com/laiguokun/multivariate-time-series-data
